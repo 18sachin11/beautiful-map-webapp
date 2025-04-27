@@ -1,0 +1,5 @@
+streamlit
+rasterio
+matplotlib
+matplotlib-scalebar
+cartopy
